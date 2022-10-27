@@ -1,0 +1,8 @@
+127.0.0.1 - - [10/Aug/2022:19:26:41 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:19:26:42 +0530] "GET /Sample/login.jsp HTTP/1.1" 200 403
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:19:26:42 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:19:26:44 +0530] "GET /Sample/view.jsp HTTP/1.1" 500 4087
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:19:26:44 +0530] "GET /Sample/view.jsp HTTP/1.1" 500 3752
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:19:27:13 +0530] "GET /Sample/login.jsp HTTP/1.1" 200 403
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:19:27:42 +0530] "GET /Sample/home.jsp?userName=pavani&userEmail=pavani.p%40gmail.com&userPassword=12345678 HTTP/1.1" 500 4189
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:19:27:49 +0530] "GET /Sample/home.jsp?userName=pavani&userEmail=pavani.p%40gmail.com&userPassword=12345678 HTTP/1.1" 500 3854

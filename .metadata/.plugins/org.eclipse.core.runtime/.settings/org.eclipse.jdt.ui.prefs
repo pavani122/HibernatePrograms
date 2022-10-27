@@ -1,0 +1,14 @@
+Refactoring.savealleditors=true
+breadcrumb.org.eclipse.jst.j2ee.J2EEPerspective=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.GenerationType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="javax.persistence.GenerationType"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileInputStream"/><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileInputStream"/><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.FileInputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="org.hibernate.cfg.Configuration"><rhs name\="org.hibernate.cfg.Configuration"/></lhs><lhs name\="com.techouts.hibernatePrograms.Country"><rhs name\="com.techouts.hibernatePrograms.Country"/></lhs><lhs name\="com.techouts.oneToOneMapping.Question"><rhs name\="com.techouts.oneToOneMapping.Question"/></lhs><lhs name\="com.techouts.oneToOneMapping.Answer"><rhs name\="com.techouts.oneToOneMapping.Answer"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="com.techouts.oneToManyMapping.Company"><rhs name\="com.techouts.oneToManyMapping.Company"/></lhs><lhs name\="com.techouts.oneToManyMapping.Employee"><rhs name\="com.techouts.oneToManyMapping.Employee"/></lhs><lhs name\="com.techouts.manyToManyMapping.Employees"><rhs name\="com.techouts.manyToManyMapping.Employees"/></lhs><lhs name\="com.techouts.manyToManyMapping.Projects"><rhs name\="com.techouts.manyToManyMapping.Projects"/></lhs><lhs name\="com.techouts.xmlPrograms.EmployeeXml"><rhs name\="com.techouts.xmlPrograms.EmployeeXml"/></lhs><lhs name\="com.eccommerce.UserData"><rhs name\="com.eccommerce.UserData"/></lhs></history>
+content_assist_number_of_computers=18
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

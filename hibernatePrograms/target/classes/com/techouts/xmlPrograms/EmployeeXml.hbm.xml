@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+	<class name="com.techouts.xmlPrograms.CompanyXml" table="company">
+		<id name="companyId">
+		</id>
+		<property name="companyName" />
+		<property name="companyAddress" />
+		<list name="employee" table="employee" cascade="all">
+			<key>
+				<column name="companyId"></column>
+			</key>
+			<index column="companyId" />
+			<one-to-many class="com.techouts.xmlPrograms.EmployeeXml" />
+		</list>
+	</class>
+
+
+
+	<class name="com.techouts.xmlPrograms.EmployeeXml"
+		table="employee">
+		<id name="empId">
+			<generator class="increment"></generator>
+		</id>
+		<many-to-one name="CompanyXml"
+			class="com.techouts.xmlPrograms.CompanyXml">
+			<column name="companyId"></column>
+		</many-to-one>
+		<property name="empName" />
+		<property name="empSalary" />
+	</class>
+
+</hibernate-mapping>
